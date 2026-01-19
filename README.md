@@ -97,12 +97,8 @@ The project transformed raw data into meaningful insights and enabled KPI monito
 supporting data-driven business decisions.
 </p>
 
-<img 
-  width="1571" 
-  height="862" 
-  alt="Customer Behavior Analysis Dashboard" 
-  src="https://github.com/user-attachments/assets/058bf819-806c-4b4a-a667-ed8a42f1463b" 
-/>
+<img width="1303" height="720" alt="image" src="https://github.com/user-attachments/assets/929f2465-1f53-41a0-80a8-013e132d9c5b" />
+
 
 <hr>
 
