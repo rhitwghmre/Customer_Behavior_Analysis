@@ -97,7 +97,8 @@ The project transformed raw data into meaningful insights and enabled KPI monito
 supporting data-driven business decisions.
 </p>
 
-<img width="1303" height="720" alt="image" src="https://github.com/user-attachments/assets/929f2465-1f53-41a0-80a8-013e132d9c5b" />
+<img width="1566" height="853" alt="image" src="https://github.com/user-attachments/assets/89c007e2-bd8c-4d77-95ab-8787921c4ec3" />
+
 
 
 <hr>
